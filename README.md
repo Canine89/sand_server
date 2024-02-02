@@ -1,4 +1,9 @@
 # 배운 내용
+## 서버 실행
+```
+yarn run:dev
+```
+
 ## 모듈 생성
 ```
 > nest g resource
